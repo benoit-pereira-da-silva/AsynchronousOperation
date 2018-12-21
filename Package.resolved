@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Globals",
+        "repositoryURL": "https://github.com/benoit-pereira-da-silva/Globals",
+        "state": {
+          "branch": null,
+          "revision": "41cab44917e943cb37dbfb0f9888da3e528db06f",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
